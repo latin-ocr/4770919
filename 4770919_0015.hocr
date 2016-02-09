@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4770919_0015.png"; bbox 0 0 3022 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1379 1056 1466 1155">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1379 1056 1466 1155">
+     <span class='ocr_line' id='line_1_1' title="bbox 1379 1056 1466 1155; baseline 0.011 -1"><span class='ocrx_word' id='word_1_1' title='bbox 1379 1056 1466 1155; x_wconf 88' lang='lat' dir='ltr'><strong>l.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 961 1333 1889 1411">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 961 1333 1889 1411">
+     <span class='ocr_line' id='line_1_2' title="bbox 961 1333 1889 1411; baseline -0.003 -3"><span class='ocrx_word' id='word_1_2' title='bbox 961 1333 1889 1411; x_wconf 73' lang='lat' dir='ltr'><strong>ADVERSARIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1387 1599 1468 1650">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1387 1599 1468 1650">
+     <span class='ocr_line' id='line_1_3' title="bbox 1387 1599 1468 1650; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1387 1599 1468 1650; x_wconf 82' lang='lat' dir='ltr'><strong>IN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 332 1813 2509 2128">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 332 1813 2509 2128">
+     <span class='ocr_line' id='line_1_4' title="bbox 332 1813 2509 1921; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 332 1814 1189 1921; x_wconf 84' lang='lat' dir='ltr'><strong>AESOHYLI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1295 1813 2509 1920; x_wconf 84' lang='lat' dir='ltr'><strong>PROMETHEUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1104 2042 1740 2128; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 1104 2042 1740 2128; x_wconf 78' lang='lat' dir='ltr'>leCTUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 909 2301 1929 2370">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 909 2301 1929 2370">
+     <span class='ocr_line' id='line_1_6' title="bbox 909 2301 1929 2370; baseline 0.003 -5"><span class='ocrx_word' id='word_1_7' title='bbox 909 2314 963 2365; x_wconf 80' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1032 2301 1525 2368; x_wconf 77' lang='lat' dir='ltr'><strong>WELLAUERO</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1595 2315 1929 2370; x_wconf 73' lang='lat' dir='ltr'><strong>Em&#39;mm.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
